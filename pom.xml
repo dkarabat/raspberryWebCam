@@ -47,7 +47,7 @@
                     <!-- MainClass in mainfest make a executable jar -->
                     <archive>
                         <manifest>
-                            <mainClass>com.test.Main</mainClass>
+                            <mainClass>com.raspi.Main</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

@@ -1,4 +1,4 @@
-package com.test.util;
+package com.raspi.util;
 
 import com.pi4j.io.gpio.*;
 

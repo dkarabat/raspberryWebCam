@@ -1,7 +1,7 @@
-package com.test;
+package com.raspi;
 
-import com.test.util.GpioUtil;
-import com.test.util.WebcamUtil;
+import com.raspi.util.GpioUtil;
+import com.raspi.util.WebcamUtil;
 
 import javax.imageio.ImageIO;
 import java.io.File;
