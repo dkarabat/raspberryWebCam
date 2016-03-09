@@ -30,7 +30,7 @@ public class WebcamUtil {
         }
         Mat frame = new Mat();
         camera.read(frame);
-        Highgui.imwrite("capture2.png", frame);
+//        Highgui.imwrite("capture2.png", frame);
         return mat2BufferedImage(frame);
     }
 
