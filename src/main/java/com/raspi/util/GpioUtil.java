@@ -2,9 +2,6 @@ package com.raspi.util;
 
 import com.pi4j.io.gpio.*;
 
-/**
- * Created by user on 03.03.16.
- */
 public class GpioUtil {
 
     // create gpio controller
